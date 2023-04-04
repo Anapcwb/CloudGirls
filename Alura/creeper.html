@@ -1,0 +1,73 @@
+<canvas width="600" height="400"></canvas>
+
+
+<script>
+
+/* draw the Creeper from Minecraft */
+
+// var tela = document.querySelector('canvas');
+// var pincel = tela.getContext('2d');
+
+// pincel.fillStyle = "green";    
+// pincel.fillRect(200, 50, 350, 300);
+
+// pincel.fillStyle = "black";    
+// pincel.fillRect(250, 110, 90, 90);
+// pincel.fillRect(410, 110, 90, 90);
+
+// pincel.fillStyle = "black";    
+// pincel.fillRect(340, 200, 70, 100);
+
+// pincel.fillStyle = "black";    
+// pincel.fillRect(300, 240, 40, 110);
+// pincel.fillRect(410, 240, 40, 110);
+
+
+/* draw a triangle */
+// var tela = document.querySelector('canvas');
+// var pincel = tela.getContext('2d');
+
+// pincel.fillStyle='black'
+
+// pincel.beginPath();
+// pincel.moveTo(50, 50);
+// pincel.lineTo(50, 400);
+// pincel.lineTo(400, 400);
+// pincel.fill();
+
+// pincel.fillStyle='white'
+
+// pincel.beginPath();
+// pincel.moveTo(100, 175);
+// pincel.lineTo(100, 350);
+// pincel.lineTo(275, 350);
+// pincel.fill();
+
+/* draw the Brazil's flag */
+
+var tela = document.querySelector('canvas');
+var pincel = tela.getContext('2d');
+
+pincel.fillStyle = "green";    
+pincel.fillRect(0, 0, 600, 400);
+
+pincel.fillStyle = "yellow";
+pincel.beginPath();
+pincel.moveTo(300, 50);
+pincel.lineTo(50, 200);
+pincel.lineTo(550, 200);
+pincel.fill();
+
+pincel.beginPath();
+pincel.moveTo(300, 350);
+pincel.lineTo(50, 200);
+pincel.lineTo(550, 200);
+pincel.fill();
+
+pincel.fillStyle = "darkblue";
+pincel.beginPath();
+
+pincel.arc(300, 200, 100, 0, 2*3.14);
+pincel.fill();
+
+</script>

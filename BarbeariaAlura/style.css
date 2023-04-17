@@ -234,3 +234,7 @@ form input {
 	.checkbox {
 		margin: 20px 0;
 	}
+
+	p {
+		color: red;
+	}

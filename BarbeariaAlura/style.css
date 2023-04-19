@@ -229,6 +229,10 @@
 	font-weight: bold;
 }
 
+.itens:before {
+	content: "★"; /*using Unicode Symbols*/
+}
+
 .imagem-beneficios {
 	width: 60%;	
 }

@@ -18,12 +18,12 @@ In the last module, we focused on the home page, which was visually unfinished a
 <!-- ## Features -->
 
 
-## Getting Started
+<!-- ## Getting Started
 
 [Instructions to clone the repository]
 [Instructions to install dependencies]
 [Instructions to run the project]
-
+-->
 <!-- ## Demo -->
 
 

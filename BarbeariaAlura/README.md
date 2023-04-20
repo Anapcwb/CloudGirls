@@ -15,7 +15,7 @@ In the last module, we focused on the home page, which was visually unfinished a
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-## Features
+<!-- ## Features -->
 
 
 ## Getting Started
@@ -24,7 +24,7 @@ In the last module, we focused on the home page, which was visually unfinished a
 [Instructions to install dependencies]
 [Instructions to run the project]
 
-## Demo
+<!-- ## Demo -->
 
 
 ## Future Improvements

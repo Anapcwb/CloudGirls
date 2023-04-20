@@ -19,7 +19,7 @@
 [Link to a live demo of the project]
 
 ##Future Improvements
-[List of potential future improvements to the project]
+[Changing spacing, giving some breathing room to the text in relation to the page border for mobile.]
 
 
 
